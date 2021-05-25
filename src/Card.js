@@ -17,7 +17,7 @@ export default function PlayingCard(props) {
         <CardMedia style={{width: '17vw', height: '23.8vw'}} image={"/cards/"+ props.category + "/" + props.imgName + ".PNG"} />
       </CardContent>
       <CardActions style={{ display: 'flex', justifyContent: 'center' }}>
-        <Button onClick={removeCard} color="secondary" variant="contained">Play/Discard Card</Button>
+        <Button onClick={removeCard} color="secondary" variant="contained">Discard Card</Button>
       </CardActions>
     </Card>
   );
