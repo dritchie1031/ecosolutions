@@ -24,12 +24,12 @@ export default function Rules() {
         </AccordionSummary>
         <AccordionDetails style={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
           <Typography style={{ maxWidth: '800px' }}>
-            Each player will choose one of the five EcoSpheres. When each player has chosen, they should click on the corresponding link at the top of this page and open it in a new tab.
+            Each player will choose one of the five EcoSpheres (Animalia, Fungi, Humanity, Plantae, and Prokarya). When each player has chosen, they should click on the corresponding link at the top of this page and open it in a new tab.
             This will be where you draw and play cards. Then, one player should open the "Crises" page in a new tab and draw a crisis card. The winning and losing conditions should be written down on the piece of paper,
             along with the starting scores of: Sustainability=5, Growth=0, Conservation=0. Whoever wishes to keep track of this information may do so: there can be multiple scorekeepers. Now, each player should draw three
             cards from their respective decks. 
           </Typography>
-          <img src="/cards/symbols.PNG" width="200px"/>
+          <img src="/cards/symbols.png" width="200px"/>
         </AccordionDetails>
       </Accordion>
       <Accordion>
@@ -42,7 +42,7 @@ export default function Rules() {
           <Typography style={{ maxWidth: '800px' }}>
             Start each turn by ensuring that you start with 3 cards (unless another card specifies otherwise or if the deck has run out of cards). 
             Each turn, every player will play a card. When everyone has chosen which card to play, the group will read aloud the cards they play. Each card is played simultaneously, so no player goes before any other.
-            You cannot discuss with other players what card you wish to play.
+            You cannot discuss with other players what card you wish to play. For EcoSpheres without players, one of the players draws a single card per round from that EcoSphere's deck and that card is played.
             When the cards have been played, the effects are totalled up and the scores are modified accordingly. The players then discard the card they just played from their hand. If a winning or losing condition is met at this point, the game ends.
           </Typography>
         </AccordionDetails>
