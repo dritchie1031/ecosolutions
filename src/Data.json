@@ -1,0 +1,70 @@
+{
+  "crisis": {
+    "title": "Crises",
+    "category": "crisis",
+    "cards": [
+      "food_waste",
+      "deforestation"
+    ]
+  },
+  "humanity": {
+    "title": "Humanity",
+    "category": "humanity",
+    "cards": [
+      "legislation",
+      "env_research",
+      "technology",
+      "adapt",
+      "reproduce"
+    ]
+  },
+  "animalia": {
+    "title": "Animalia",
+    "category": "animalia",
+    "cards": [
+      "speciate",
+      "carnivore",
+      "herbivore",
+      "adapt",
+      "reproduce"
+    ],
+    "cardNums": [
+      1,
+      1
+    ]
+  },
+  "fungi": {
+  "title": "Fungi",
+  "category": "fungi",
+  "cards": [
+  "decomposer",
+  "disease",
+  "mycoremediation",
+  "symbiosis",
+  "adapt",
+  "reproduce"
+  ]
+  },
+  "plantae": {
+  "title": "Plantae",
+  "category": "plantae",
+  "cards": [
+    "photosynthesis",
+    "producers",
+    "soil_absorb",
+    "adapt",
+    "reproduce"
+  ]
+  },
+  "prokarya": {
+    "title": "Prokarya",
+    "category": "prokarya",
+    "cards": [
+      "decomposer",
+      "disease",
+      "photosynthesis",
+      "adapt",
+      "reproduce"
+    ]
+  }
+}
