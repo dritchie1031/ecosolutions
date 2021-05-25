@@ -29,7 +29,7 @@ export default function Rules() {
             along with the starting scores of: Sustainability=5, Growth=0, Conservation=0. Whoever wishes to keep track of this information may do so: there can be multiple scorekeepers. Now, each player should draw three
             cards from their respective decks. 
           </Typography>
-          <img src="symbols.PNG" width="200px"/>
+          <img src="/cards/symbols.PNG" width="200px"/>
         </AccordionDetails>
       </Accordion>
       <Accordion>
